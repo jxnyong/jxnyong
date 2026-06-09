@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋    ![](https://komarev.com/ghpvc/?username=jxnyong)
 I'm Christopher. 
 
 🎓 CS undergraduate at Singapore Management University (SMU)\
