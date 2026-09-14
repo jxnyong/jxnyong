@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from Singapore</h3>
+<h3 align="center">A Passionate Computer Science Undergraduate from Singapore</h3>
 
 ## Hi there 👋
 <p align="left">I'm Christopher. </p>
